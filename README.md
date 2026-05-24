@@ -19,6 +19,7 @@ Tech Stack
 •	Machine Learning
 •	NLP / Generative AI
 Project Structure
+
 FinIQ/
 │
 ├── FinIQ_Gradio.ipynb
@@ -28,22 +29,26 @@ FinIQ/
 ├── data/
 ├── assets/
 └── models/
+
 Installation
 1.	Clone the repository from GitHub
 2.	Navigate to the project folder
 3.	Install dependencies using pip install -r requirements.txt
 4.	Run the application using python app.py
+   
 Usage
-5.	Launch the application
-6.	Open the Gradio interface in your browser
-7.	Enter financial queries or upload financial data
-8.	Receive AI-generated insights and analysis
+6.	Launch the application
+7.	Open the Gradio interface in your browser
+8.	Enter financial queries or upload financial data
+9.	Receive AI-generated insights and analysis
+
 Applications
 •	Financial data analysis
 •	AI finance assistant
 •	Educational finance tool
 •	Portfolio project for AI/Data Science
 •	Conversational finance system
+
 Future Improvements
 •	RAG-based financial retrieval system
 •	Real-time stock market integration
@@ -53,6 +58,7 @@ Future Improvements
 •	Authentication system
 •	Database integration
 •	Advanced LLM integration
+
 License
 This project is licensed under the MIT License.
 Author
