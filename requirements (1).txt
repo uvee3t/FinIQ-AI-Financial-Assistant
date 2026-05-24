@@ -1,0 +1,11 @@
+gradio>=4.0.0
+yfinance>=1.0.0
+curl_cffi
+pandas
+numpy
+plotly
+openpyxl
+google-genai
+groq
+reportlab
+requests
