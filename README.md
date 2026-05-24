@@ -1,4 +1,5 @@
 Live Application -  https://huggingface.co/spaces/yuvraj3t/Finiq-v5_
+
 FinIQ – AI Financial Assistant
 An intelligent AI-powered financial assistant built using Python and Gradio for smart financial analysis, interactive conversations, and AI-driven insights.
 Overview
